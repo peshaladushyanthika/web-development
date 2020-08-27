@@ -1,0 +1,100 @@
+.navigation{
+	height: 100px;
+}
+.navigation nav ul li {
+	display: inline;
+	font-size: 20px;
+	font-color: gray;
+	padding: 10px;
+	text-decoration: none;
+
+}
+nav ul li #A{
+	background-color: red; 
+}
+.navigation img{
+	float: right;
+	width: 150px;
+}
+.top-bar {
+	background-color: black;
+	height: 60px;
+
+}
+.top-bar h2{
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+.top-text h3{
+	text-align: center;
+}
+.top-text h3 span{
+	color: red;
+}
+.top-text p{
+	text-align: center;
+	font-size: 10px;
+}
+.row1{
+width: 100%;
+	height: 220px;
+	background-color: black;
+}
+.row1 .img{
+	width: 400px;
+	float: left;
+}
+.row1 .img img{
+	width:350px;
+	height: 200px;
+	padding: 10px;
+	/*padding-bottom: 15px;
+	padding-top: 15px;*/
+}
+.row1 .text{
+	width: 1200px;
+	float: left;
+}
+.row1 .text h2{
+
+	
+	color: white;
+}
+.row1 .text p{
+	color: white;
+}
+.top-bar2{
+	background-color: black;
+}
+.top-bar2 h3{
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+/*.top-text2 h3{
+	text-align: center;
+}
+.top-text2 h3 span{
+	color: red;
+	text-align: center;
+}
+*/
+.port{
+	text-align: center;
+}
+.port h5 #B{
+	color: brown;
+	text-align: center;
+}
+.port h3 span{
+	color: red;
+	text-align: center;
+
+}
+.images .col1{
+	width: 100px;
+
+}
